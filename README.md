@@ -2,7 +2,7 @@
 
 requests google results crawler app
 
-![avatar](img\appimg.png)
+![avatar](https://github.com/LinKenCong/google-crawler-app/blob/main/img/appimg.png)
 
 The program to crawl Google search results written when learning Python, and packaged as exe software, realizes multi-threading and export table functions.
 
